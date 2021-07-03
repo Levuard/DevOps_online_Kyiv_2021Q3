@@ -1,0 +1,20 @@
+c82a27e HEAD@{0}: merge develop: Fast-forward
+1e6205c HEAD@{1}: checkout: moving from develop to main
+c82a27e HEAD@{2}: merge styles: Merge made by the 'recursive' strategy.
+5a4120f HEAD@{3}: checkout: moving from styles to develop
+df91c04 HEAD@{4}: checkout: moving from develop to styles
+5a4120f HEAD@{5}: checkout: moving from styles to develop
+df91c04 HEAD@{6}: checkout: moving from develop to styles
+5a4120f HEAD@{7}: checkout: moving from main to develop
+1e6205c HEAD@{8}: checkout: moving from develop to main
+5a4120f HEAD@{9}: reset: moving to HEAD
+5a4120f HEAD@{10}: merge images: Fast-forward
+737eaac HEAD@{11}: checkout: moving from styles to develop
+df91c04 HEAD@{12}: commit: changed index
+737eaac HEAD@{13}: checkout: moving from develop to styles
+737eaac HEAD@{14}: checkout: moving from images to develop
+5a4120f HEAD@{15}: commit: added some images in /images
+737eaac HEAD@{16}: checkout: moving from develop to images
+737eaac HEAD@{17}: commit: создали индекс в бренче девелоп
+1e6205c HEAD@{18}: checkout: moving from main to develop
+1e6205c HEAD@{19}: commit (initial): создали readme.txt
